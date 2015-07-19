@@ -16,3 +16,7 @@ Details:
 *. title changed as per the fragment we are on. 
 
 *. Default actionbar menu behavior with swipe is present
+
+Remaining
+
+*. Use Decorator pattern with the fragments so that we can add or replace fragments.
