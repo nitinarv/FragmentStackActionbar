@@ -20,3 +20,6 @@ Details:
 Remaining
 
 *. Use Decorator pattern with the fragments so that we can add or replace fragments.
+
+*. Fragment based modifications to screens to cover half the screen , put an animation and respond to click events 
+
