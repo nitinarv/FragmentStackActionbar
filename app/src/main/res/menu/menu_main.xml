@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_friends" android:title="@string/action_friends"
+        android:orderInCategory="100" tools:showAsAction="always" />
+    <item android:id="@+id/action_messages" android:title="@string/action_messages"
+        android:orderInCategory="100" tools:showAsAction="always" />
+</menu>
