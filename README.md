@@ -17,6 +17,8 @@ Details:
 
 *. Default actionbar menu behavior with swipe is present
 
+*. Handling configuration change in fragments
+
 Remaining
 
 *. Use Decorator pattern with the fragments so that we can add or replace fragments.
