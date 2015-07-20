@@ -98,7 +98,8 @@ public class MainActivity extends ActionBarActivity {
         });
 
         setActionbarBackState();
-        if(backStackCount()==0) {
+
+        if(MainActivity.this.getSupportFragmentManager().findFragmentById(R.id.framelayout)==null){
             mFragment = new MainActivityFragment();
             if (mFragment != null) {
                 FragmentManager fragmentManager = MainActivity.this.getSupportFragmentManager();
